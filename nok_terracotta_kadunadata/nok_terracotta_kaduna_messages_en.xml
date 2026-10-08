@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[NOK TERRACOTTA KADUNA]]></data>
+  <data name="en_project_author_name"><![CDATA[Developed by  I-360 LIMITED '+234 803 618 2894']]></data>
+  <data name="en_project_author_url"><![CDATA[http://www.i360limited.com/]]></data>
+
+
+
+  <data name="en_pano37_title"><![CDATA[Terracotta Model]]></data>
+  <data name="en_spotpoint77_tooltip"><![CDATA[Districts' Head Palace]]></data>
+  <data name="en_spotpoint173_tooltip"><![CDATA[River]]></data>
+  <data name="en_spotpoint912_tooltip"><![CDATA[Nok Sculpture]]></data>
+  <data name="en_spotpoint912websiteViewer|websiteViewer|toggle_websitewebsite_url"><![CDATA[https://en.wikipedia.org/wiki/Nok_culture#/media/File:Nok_sculpture_Louvre_70-1998-11-1.jpg]]></data>
+  <data name="en_spotpoint912websiteViewer|websiteViewer|toggle_websitewebsite_title"><![CDATA[NOK SCULPTURES]]></data>
+
+
+  <data name="en_pano29_title"><![CDATA[Districts' Head Palace]]></data>
+  <data name="en_spotpoint78_tooltip"><![CDATA[Terracotta]]></data>
+  <data name="en_spotpoint79_tooltip"><![CDATA[Village Square]]></data>
+  <data name="en_spotpoint550_tooltip"><![CDATA[Sediment Investigation]]></data>
+
+
+  <data name="en_pano38_title"><![CDATA[Village square]]></data>
+  <data name="en_spotpoint80_tooltip"><![CDATA[Districts' Head Palace]]></data>
+  <data name="en_spotpoint81_tooltip"><![CDATA[Open Court]]></data>
+
+
+  <data name="en_pano39_title"><![CDATA[Open court]]></data>
+  <data name="en_spotpoint82_tooltip"><![CDATA[Village Square]]></data>
+  <data name="en_spotpoint83_tooltip"><![CDATA[Rock Shelter]]></data>
+
+
+  <data name="en_pano42_title"><![CDATA[Rock Shelter]]></data>
+  <data name="en_spotpoint84_tooltip"><![CDATA[Supreme Court]]></data>
+  <data name="en_spotpoint85_tooltip"><![CDATA[Tree of Life]]></data>
+  <data name="en_spotpoint86_tooltip"><![CDATA[Terracotta]]></data>
+  <data name="en_spotpoint87_tooltip"><![CDATA[River]]></data>
+  <data name="en_spotpoint684_tooltip"><![CDATA[Torist at Rock Shelter]]></data>
+
+
+  <data name="en_pano43_title"><![CDATA[Supreme Court]]></data>
+  <data name="en_spotpoint92_tooltip"><![CDATA[Rock Shelter]]></data>
+
+
+  <data name="en_pano40_title"><![CDATA[River]]></data>
+  <data name="en_spotpoint88_tooltip"><![CDATA[Rock Shelter]]></data>
+  <data name="en_spotpoint89_tooltip"><![CDATA[Village Square]]></data>
+
+
+  <data name="en_pano30_title"><![CDATA[Tree of life]]></data>
+  <data name="en_spotpoint90_tooltip"><![CDATA[Back to Rock Shelter]]></data>
+  <data name="en_spotpoint91_tooltip"><![CDATA[Cave Entrance]]></data>
+
+
+  <data name="en_pano31_title"><![CDATA[Cave Entrace]]></data>
+  <data name="en_spotpoint167_tooltip"><![CDATA[Tree of Life]]></data>
+  <data name="en_spotpoint168_tooltip"><![CDATA[Cave]]></data>
+
+
+  <data name="en_pano61_title"><![CDATA[Cave]]></data>
+  <data name="en_spotpoint169_tooltip"><![CDATA[Exit]]></data>
+  <data name="en_spotpoint170_tooltip"><![CDATA[Grain-Barn]]></data>
+
+
+  <data name="en_pano36_title"><![CDATA[Grain-Barn Cave]]></data>
+  <data name="en_spotpoint171_tooltip"><![CDATA[Exit]]></data>
+
+
+  <data name="en_pano174_title"><![CDATA[Nok Sediments Investigation]]></data>
+  <data name="en_spotpoint909_tooltip"><![CDATA[THE NOK RESEARCH TEAM]]></data>
+  <data name="en_spotpoint909websiteViewer|websiteViewer|toggle_websitewebsite_url"><![CDATA[http://www.nokkultur.de/nok%20englisch/team.htm]]></data>
+  <data name="en_spotpoint909websiteViewer|websiteViewer|toggle_websitewebsite_title"><![CDATA[THE NOK RESEARCH TEAM]]></data>
+
+
+  <data name="en_pano27_title"><![CDATA[Matsirga Waterfalls]]></data>
+  <data name="en_spotpoint683_tooltip"><![CDATA[Matsirga Waterfall, Kaduna]]></data>
+  <data name="en_spotpoint683websiteViewer|websiteViewer|toggle_websitewebsite_url"><![CDATA[https://youtu.be/6VsRgb1g_o0]]></data>
+  <data name="en_spotpoint683websiteViewer|websiteViewer|toggle_websitewebsite_title"><![CDATA[MATSIRGA WATERFALL, KADUNA]]></data>
+
+
+  <data name="en_pano28_title"><![CDATA[Emir of Zarias' Palace]]></data>
+  <data name="en_spotpoint914_tooltip"><![CDATA[Zazzau
+Kingdom]]></data>
+  <data name="en_spotpoint914websiteViewer|websiteViewer|toggle_websitewebsite_url"><![CDATA[https://en.wikipedia.org/wiki/Zazzau]]></data>
+  <data name="en_spotpoint914websiteViewer|websiteViewer|toggle_websitewebsite_title"><![CDATA[ZAZZAU KINGDOM]]></data>
+
+
+
+
+	<data name="en_project_floor_title"><![CDATA[NOK TERRACOTTA KADUNA]]></data>
+
+
+  <data name="en_descriptiondescription_title"><![CDATA[]]></data>
+  <data name="en_descriptiondisplay_close_text"><![CDATA[Close]]></data>
+  <data name="en_controlBar_classiczoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="en_controlBar_classiczoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="en_controlBar_classicopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="en_controlBar_classiccloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="en_controlBar_classicautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="en_controlBar_classicautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="en_controlBar_classicautotourOnTip"><![CDATA[Start automatic tour]]></data>
+  <data name="en_controlBar_classicautotourOffTip"><![CDATA[Stop automatic tour]]></data>
+  <data name="en_controlBar_classicsoundsOnTip"><![CDATA[Start sounds]]></data>
+  <data name="en_controlBar_classicsoundsOffTip"><![CDATA[Stop sounds]]></data>
+  <data name="en_controlBar_classicshowSpotsTip"><![CDATA[Show hotspots]]></data>
+  <data name="en_controlBar_classichideSpotsTip"><![CDATA[Hide hotspots]]></data>
+  <data name="en_controlBar_classicshowThumbnailsTip"><![CDATA[Show thumbnails]]></data>
+  <data name="en_controlBar_classichideThumbnailsTip"><![CDATA[Hide thumbnails]]></data>
+  <data name="en_controlBar_classicdisplayHelpTip"><![CDATA[Show help screen]]></data>
+  <data name="en_controlBar_classichideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="en_controlBar_classicdisplayInfoTip"><![CDATA[Show information]]></data>
+  <data name="en_controlBar_classichideInfoTip"><![CDATA[Hide information]]></data>
+  <data name="en_controlBar_classicenterVRTip"><![CDATA[VR mode]]></data>
+  <data name="en_controlBar_classicenterVRNotTip"><![CDATA[VR mode is unavailable]]></data>
+  <data name="en_controlBar_classicdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="en_controlBar_classichideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="en_logowebsiteurl"><![CDATA[http://www.i360limited.com/]]></data>
+  <data name="en_prevnexttheme1prevSceneTip"><![CDATA[Previous Scene]]></data>
+  <data name="en_prevnexttheme1nextSceneTip"><![CDATA[Next Scene]]></data>
+  <data name="en_button4tooltip"><![CDATA[Locate on Map]]></data>
+  <data name="en_button4onclick110649webVideoViewer|webVideoViewer|toggle_webvideovideo_url"><![CDATA[https://youtu.be/pUPdBengyLk]]></data>
+  <data name="en_button4onclick110649webVideoViewer|webVideoViewer|toggle_webvideovideo_title"><![CDATA[]]></data>
+  <data name="en_buttontooltip"><![CDATA[The Ham Cultural Heritage]]></data>
+  <data name="en_buttononclick117134websiteViewer|websiteViewer|toggle_websitewebsite_url"><![CDATA[http://www.hamculturalheritage.org/the-nok-culture/]]></data>
+  <data name="en_buttononclick117134websiteViewer|websiteViewer|toggle_websitewebsite_title"><![CDATA[The Ham Cultura Heritage]]></data>
+  <data name="en_button1tooltip"><![CDATA[About NOK Culture]]></data>
+  <data name="en_button1onclick118430websiteViewer|websiteViewer|toggle_websitewebsite_url"><![CDATA[https://en.wikipedia.org/wiki/Nok_culture]]></data>
+  <data name="en_button1onclick118430websiteViewer|websiteViewer|toggle_websitewebsite_title"><![CDATA[NOK Culture]]></data>
+  <data name="en_button2tooltip"><![CDATA[Social Share]]></data>
+  <data name="en_logo2websiteurl"><![CDATA[http://tournigeria.gov.ng/]]></data>
+  <data name="en_logo2tooltipText"><![CDATA[Open website]]></data>
+  <data name="en_floorPlanmenu_label"><![CDATA[Select a floor plan]]></data>
+  <data name="en_floorPlandisplay_close_text"><![CDATA[Close]]></data>
+  <data name="en_socialShareclose_text"><![CDATA[Close]]></data>
+  <data name="en_socialShareembed_text"><![CDATA[Copy paste this code in your page to embed this virtual tour]]></data>
+  <data name="en_socialShareembed_width_label"><![CDATA[Width]]></data>
+  <data name="en_socialShareembed_height_label"><![CDATA[Height]]></data>
+  <data name="en_contextmenuopenwebsitelabel1"><![CDATA[NIGERIAN TOURISM DEVELOPMENT CORPORATION (NTDC) ]]></data>
+  <data name="en_contextmenuwebsiteurl1"><![CDATA[http://tournigeria.gov.ng/]]></data>
+  <data name="en_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="en_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="en_contextmenuopenVrLabel"><![CDATA[Enter VR mode]]></data>
+  <data name="en_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="en_contextmenufisheyelabel"><![CDATA[Fisheye View]]></data>
+  <data name="en_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="en_contextmenustereographiclabel"><![CDATA[Stereographic View]]></data>
+  <data name="en_contextmenupanninilabel"><![CDATA[Pannini View]]></data>
+  <data name="en_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="en_contextmenufisheyeballlabel"><![CDATA[Fisheye Ball View]]></data>
+  <data name="en_button3tooltip"><![CDATA[]]></data>
+  <data name="en_webVideoViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_webVideoViewerclose_text"><![CDATA[Close]]></data>
+  <data name="en_galleryfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_galleryclose_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title0"><![CDATA[Monument]]></data>
+  <data name="en_gallerypicture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery2fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery2close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery1fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery1close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery3fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery3close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery4fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery4close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery5fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery5close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery6fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery6close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery7fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery7close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery8fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery8close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery9fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery9close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery10fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery10close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery11fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery11close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery12fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery12close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_websiteViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_websiteViewerclose_text"><![CDATA[Close]]></data>
+
+
+  <data name="en_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="en_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="en_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="en_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="en_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="en_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="en_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="en_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="en_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="en_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="en_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="en_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="en_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="en_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="en_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="en_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="en_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="en_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="en_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="en_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="en_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="en_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="en_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+  <data name="en_pano37_description"><![CDATA[<div>Welcome to NOK the home of terracotta and ancient civilization. It is believed that the Nok tribe are descendants of HAM who was one of the sons of the Prophet NOAH. It is also believed that they migrated from Egypt to their present location in Nigeria.&nbsp;</div><div><br></div><div>Some of the evidence of ancient civilization associated with the Nok includes; wood carving, ironworking and terra-cotta, Nok craftsmen combined carving and pottery-making skills in the production of finely sculpted terracotta clay heads.</div><div><br></div><div>The six (6) feet prototype of terra-Cotta head standing at this location serves as a reminder of what the Nok community stands for, which signifies that the NOK community are amongst the first civilized people on earth.</div>]]></data>
+
+
+
+  <data name="en_pano29_description"><![CDATA[This is the palace of the District Head of the Nok (Alh. Ibrahim Nok), seated with him are the traditional chiefs of the villages that makes up the Nok community. At the palace, visitors are received hospitably by the District Head and also enjoy the privilege of hearing true stories and legends about the Nok community from him. An astonishing fact, is the mastery of English Language displayed by this enthusiastic elder states man.]]></data>
+
+
+
+  <data name="en_pano38_description"><![CDATA[<div>This is the village square, it is a typical African village setting made of red mud huts with a little bit of mordanity. Visitors are entertained by unspoilt African music that emanates from drums, flutes and horns.</div><div><br></div><div>In the Nok culture, the three arm of judiciary existed even before the advent of modern day judicial system.</div><div><br></div><div>The Open Court which we presently call the Magistrate Court, the shrine, which we refer to as the Appeal Court, and the rock shelter which we know as the Supreme Court</div>]]></data>
+
+
+
+  <data name="en_pano39_description"><![CDATA[This the Open court, at this place disputes between two (2) individuals/parties are settled before all the community, the shrine lies to the east of open court, disputes that can’t be settled at this stage is taking to the shrine for further settlement. Only elite members of the community are allowed into this shrine to settle dispute. Women are not allowed into the shrine. Young men that have attained 10 years of age are also initiated into manhood at the shrine.]]></data>
+
+
+
+  <data name="en_pano42_description"><![CDATA[This is one of the caves that were used as grain mill, this is evident all over the floor of the cave as the holes made during milling is still very visible. It was believed that grains milled at this spot were used to feed the warriors of Nok that are at the war front. Grain milling at this location was done by virgins.]]></data>
+
+
+
+  <data name="en_pano43_description"><![CDATA[The Supreme Court is the final place that any dispute is finally settle, it has three clearly defined outlets that leads to different worlds, any one that does not accept the judgement of the two lower court is brought into the Supreme Court, he/she is then left to the mercy of the gods, if he comes out of this place alive he is innocent and the final judgment is in his favour but if he does not come out alive your guess is as good as mine.]]></data>
+
+
+
+  <data name="en_pano40_description"><![CDATA[The most famous Nok Terra-Cotta head was found at this very spot during a tin mining activity in 1943, about 25feets deep into the ground. It is the earliest civilization in Africa, traced back to 500BC]]></data>
+
+
+
+  <data name="en_pano30_description"><![CDATA[At the front of the cave stand a tree called “The Tree Of Life”, it is about 70 meters high and it is believed to be this only one in existence in the world today. This is evident due to its uniqueness of all the trees found in the forest. Several attempts by researchers to clone this tree have yielded no fruitful result.]]></data>
+
+
+
+  <data name="en_pano31_description"><![CDATA[When the HAM tribe, the present day Nok got to this land they saw it as the promise land and the settled here. This was made possible because of the natural rock formation, the rock formed shelter like caves that were located about 30 meters above ground level. In these caves, they set up their community which still has traces of human habitations that dates back to 500BC.]]></data>
+
+
+
+  <data name="en_pano61_description"><![CDATA[When the HAM tribe, the present day Nok got to this land they saw it as the promised land and settled here. This was made possible because of the natural rock formation. The rock formed shelter like caves that were located about 30 meters above ground level. In these caves, they set up their community which still has traces of human habitations that dates back to 500BC.]]></data>
+
+
+
+  <data name="en_pano36_description"><![CDATA[At this spot one will come in contact with Grain-Barns that dates back to over 500BC, this was where HAM of the Nok tribe stored and preserved their grain produce. There are about five (5) of these ancient grain-barns intact till date. These Barns are well protected from all forms of harsh weather conditions as they are located in the caves, where rain nor sunshine has no direct contact with them, the temperature of the cave is about 10oC, this you need to see and feel for yourself.]]></data>
+
+
+
+
+
+
+  <data name="en_pano27_description"><![CDATA[The Matsirga waterfalls is locates at Madakiya, close to Kafanchan town, Kaduna state. The waterfalls exhibits an exuberant power of nature, the force of the gushing water is so torrential that it generates white smoke like cloud. The sheer drop of the fall is about 30 meters, the water cascades into a pool at the bottom of the cliff, it in turn creates a dazzling rainbow effect, and the force of the fall also creates dazzling cloud of spray at the foot of the falls. The scenic beauty and serenity of the area as well as the fresh cool breeze blowing around the waterfalls has so much to offer for tourist.]]></data>
+
+
+
+  <data name="en_pano28_description"><![CDATA[<div>The Emir of Zazzau’s Palace is situated inside the ancient city of Zazzau (the modern day Zaria). It was built of mud and the design is of traditional expertise, typical of Hausa architecture.&nbsp;</div><div><br></div><div>The Palace is surrounded with high walls and beautifully constructed gates. One of the gates is the main entrance while the other gate separates the residential area of the Emir and his family from his emirate offices. The Palace, with such beautiful Traditional Architectural Design, projects a sheer grandeur of beauty and elegance ,of the traditional Hausa culture of the Zazzau. The palace is simply fascinating and irresistible to witness.</div><div><br></div><div>Zazzau (Zaria) community was founded in the 14th century as one of the seven original Hausa city-states. It rose to prominence in the early 15th century under the brilliant military leadership of Queen Amina.</div>]]></data>
+
+
+</krpano>
